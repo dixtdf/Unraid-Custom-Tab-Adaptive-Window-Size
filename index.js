@@ -19,7 +19,7 @@
                 let height = window.innerHeight-(
                     window.document.getElementById("header").offsetHeight
                     +window.document.getElementById("menu").offsetHeight
-                    +window.document.getElementById("footer").offsetHeight
+                    +(window.document.getElementById("footer")!=null?window.document.getElementById("footer").offsetHeight:26)
                     +parseInt(computedStyle.getPropertyValue("height").replace("px",""), 10)
                     +parseInt(computedStyle.getPropertyValue("padding-top").replace("px",""), 10)
                     +parseInt(computedStyle.getPropertyValue("padding-bottom").replace("px",""), 10)
