@@ -5,7 +5,7 @@
 // @description  窗体宽高随意设置即可
 // @author       dixtdf
 // @match        http*://*/*
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://upload.forums.unraid.net/live/monthly_2017_05/customlarge.png.e0cb690d73cea725de6927fc0abce6a7.png
 // @grant        none
 // @license         MIT
 // ==/UserScript==
