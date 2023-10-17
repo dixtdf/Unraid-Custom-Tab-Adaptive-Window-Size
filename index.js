@@ -7,7 +7,7 @@
 // @match        http*://*/*
 // @icon         https://upload.forums.unraid.net/live/monthly_2017_05/customlarge.png.e0cb690d73cea725de6927fc0abce6a7.png
 // @grant        none
-// @license         MIT
+// @license      MIT
 // ==/UserScript==
 
 (function() {
