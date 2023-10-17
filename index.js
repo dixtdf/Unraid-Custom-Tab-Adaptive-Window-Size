@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Unraid Custom Tab自适应窗体大小
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/dixtdf/Unraid-Custom-Tab-Adaptive-Window-Size
 // @version      0.1
 // @description  窗体宽高随意设置即可
 // @author       dixtdf
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @license         MIT
 // ==/UserScript==
 
 (function() {
