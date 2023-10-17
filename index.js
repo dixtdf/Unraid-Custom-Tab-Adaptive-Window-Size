@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Unraid Custom Tab自适应窗体大小
 // @namespace    https://github.com/dixtdf/Unraid-Custom-Tab-Adaptive-Window-Size
-// @version      1.0
+// @version      1.1
 // @description  窗体宽高随意设置即可
 // @author       dixtdf
 // @match        http*://*/*
